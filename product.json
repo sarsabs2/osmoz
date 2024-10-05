@@ -7,7 +7,7 @@
     "currency": "TND",
     "category": "Pizza",
     "taile": "moyenne",
-
+      "hero":"/product/pizza/pizza-1.png",
     "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
@@ -22,8 +22,8 @@
     "currency": "TND",
     "category": "Pizza",
     "taile": "max",
-
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -36,8 +36,8 @@
     "currency": "TND",
     "category": "Pizza",
     "taile": "max",
-    
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -50,8 +50,8 @@
     "currency": "TND",
     "category": "Pizza",
     "taile": "max",
-    
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -64,8 +64,8 @@
     "currency": "TND",
     "category": "Pizza",
     "taile": "moyenne",
-    
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -78,8 +78,8 @@
     "currency": "TND",
     "category": "Pizza",
     "taile": "max",
-
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -92,7 +92,7 @@
     "currency": "TND",
     "category": "Pizza",
     "taile": "moyenne",
-
+    "hero":"/product/pizza/pizza-1.png",
     "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
@@ -105,8 +105,8 @@
     "price":7.000,
     "currency": "TND",
     "category": "Galzouni",
-
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -209,8 +209,8 @@
     "price":7.000,
     "currency": "TND",
     "category": "makloub",
-
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -222,8 +222,8 @@
     "price":7.000,
     "currency": "TND",
     "category": "Libanie",
-
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -235,8 +235,8 @@
     "price":6.000,
     "currency": "TND",
     "category": "Libanie",
-
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -248,8 +248,8 @@
     "price":6.000,
     "currency": "TND",
     "category": "Libanie",
-
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -261,8 +261,8 @@
     "price":7.000,
     "currency": "TND",
     "category": "Libanie",
-
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
@@ -274,8 +274,8 @@
     "price":6.000,
     "currency": "TND",
     "category": "Sandwitch",
-
-    "images": [
+    "hero":"/product/pizza/pizza-1.png",
+  "images": [
       "https://example.com/images/headphones1.jpg",
       "https://example.com/images/headphones2.jpg"
     ]
